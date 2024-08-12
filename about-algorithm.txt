@@ -1,0 +1,12 @@
+1. What is an algorithm?
+Ans: An algorithm is a set of well-defined instructions to solve a particular problem
+
+2. What are the characteristics of an algorithm?
+Ans: Following are the characteristics:
+i. Well defined inputs and outputs.
+ii. Each step should be clear and unambiguous.
+iii. Language independent
+
+3. Why algorithms?
+Ans: Learning algorithms makes a developer highly efficient at solving real-world application problems and make the process efficient.
+
