@@ -1,0 +1,9 @@
+1. What is recursion?
+Ans: Recursion is a problem solving technique where the solution depends on the solutions of small instances of the same problem.
+Recursion is when a function calls itself.
+
+2. Why is recursion important?
+Ans: Recursion breaks a big problem into the smaller versions of the same problem which is helpful to solve the problem.
+
+3. Points to keep in mind:
+i. We must need a base condition that breaks the recursion, otherwise the loop will go forever and will crash the program.
