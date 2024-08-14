@@ -14,3 +14,5 @@ const bubbleSort = (arr) => {
 };
 
 console.log(bubbleSort([6, -2, 4, -10]));
+
+// The time complexity is O(logn) which is a logarithmic time complexity.
