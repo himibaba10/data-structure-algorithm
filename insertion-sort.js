@@ -1,6 +1,5 @@
 const insertionSort = (arr) => {
   const arrayToSort = [...arr];
-  let sortedElement = arr[0];
   for (let i = 1; i < arr.length; i++) {
     let numberToInsert = arr[i];
     for (let j = i - 1; j >= 0; j--) {
